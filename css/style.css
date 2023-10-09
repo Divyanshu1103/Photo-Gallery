@@ -1,0 +1,156 @@
+.head{
+ 	margin left: 15px;
+	margin-right: 15px; 
+   position: relative;
+   left: 0px;
+   right: 0px;
+   height: 75px;
+   width: 100%;
+   background-color: black;
+   z-index: 100;
+}
+.photo-nav a{    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "Helvetica Neue";
+    padding-right: 18px;
+    padding-top: 3%;
+    display: inline-block;
+    float: right;
+}
+
+.header{
+   height: 100px;
+   width: 100%;
+   background-color:#1E90FF;
+   margin-top: -18px;
+    font-family: 'Trebuchet MS', 'Myriad Pro', Arial, sans-serif;
+    font-style: italic;
+	font-weight: normal;
+
+}
+
+h1{
+   text-align: center;
+   padding-top: 10px;
+   font-family: "Pacifico", Georgia, "Times New Roman", serif;
+
+}
+.span{
+
+   color: white;
+   font-size: 10px;
+}
+body{
+   font-family: 'PT Sans Narrow', Arial, sans-serif;
+   font-size: 16px;
+   margin: 0;
+   background:linear-gradient( to right bottom , #273c75 ,  #079992  );
+   background-repeat: no-repeat;
+}
+
+
+li img{
+
+   max-width: 100%;
+}
+
+
+
+
+
+
+
+.container{
+   padding: 40px 0;
+}
+
+ul{
+   padding-left: 10px;
+   margin: auto;
+   list-style: none;
+}
+
+
+ul li{
+   margin: 0 2px;
+   display: inline-block;
+   width: 100px;
+   border:1px solid #fff;
+}
+ul li img{
+
+   display: block;
+}
+.block{
+   margin: 20px;
+   margin-top: 60px;
+   border: 6px solid black;
+   overflow-x: scroll;
+   overflow-y: hidden;
+   white-space:nowrap;
+   
+
+}
+
+
+#thumb8{
+   height: 67.4px;
+   width: 100px;
+}
+#thumb9{
+   height: 68px;
+   width: 100px;
+}
+figure{
+
+   max-width: 800px;
+   margin: 40px auto 40px;
+   border:8px solid; black;
+   box-shadow: 1px 2px 10px 5px white;
+}
+figure img{
+   max-width: 100%;
+   min-width: 100%;
+   display: block;
+}
+
+
+.div-logo img{
+	width: 47px;
+    height: 55px;
+    margin: 10px;
+    float: left;
+}
+
+
+ .logo-text{
+    display: block;
+    font-family:"Helvetica Neue";
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.footer{
+   background-color: black;
+   padding-top: 1px;
+   padding-bottom: 14px;
+   color: white;
+   height: 80px;
+   font-size: 20px;
+   text-align: center;
+
+
+}
+
+.text-footer{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+   display: flex;
+   justify-content: center;
+   color: white;
+   
+}
